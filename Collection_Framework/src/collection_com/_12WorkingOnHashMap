@@ -1,0 +1,16 @@
+HashMap<String, Integer> map = new HashMap<>();
+map.put("Aman", 19);
+map.put("Sunny", 29);
+map.put("Ritesh", 39);
+
+
+Index = hashcode(Key) & (n-1)
+
+
+Index = 2657860 & (16-1) = 4
+
+
+Index=63281940 & (16-1) = 4
+
+
+map.get(new Key("Aman"));

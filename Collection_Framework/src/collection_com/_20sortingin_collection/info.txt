@@ -1,0 +1,12 @@
+
+
+
+ We can sort the elements of:
+
+    String objects
+    Wrapper class objects
+    User-defined class objects
+
+Collections class provides static methods for sorting the elements of a collection. If collection elements are of a Set type, we can use TreeSet.
+However,
+we cannot sort the elements of List. Collections class provides methods for sorting the elements of List type elements.

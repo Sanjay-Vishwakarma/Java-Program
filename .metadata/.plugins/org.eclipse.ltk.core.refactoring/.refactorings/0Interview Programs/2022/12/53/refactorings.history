@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename type &apos;com.interview.ReverseString&apos; to &apos;ReverseCharacter&apos;&#x0D;&#x0A;- Original project: &apos;0Interview Programs&apos;&#x0D;&#x0A;- Original element: &apos;com.interview.ReverseString&apos;&#x0D;&#x0A;- Renamed element: &apos;com.interview.ReverseCharacter&apos;&#x0D;&#x0A;- Update references to refactored element&#x0D;&#x0A;- Update textual occurrences in comments and strings" description="Rename type &apos;ReverseString&apos;" flags="589830" id="org.eclipse.jdt.ui.rename.type" input="/src&lt;com.interview{ReverseString.java[ReverseString" matchStrategy="1" name="ReverseCharacter" qualified="false" references="true" similarDeclarations="false" stamp="1672210237046" textual="false" version="1.0"/>
+</session>

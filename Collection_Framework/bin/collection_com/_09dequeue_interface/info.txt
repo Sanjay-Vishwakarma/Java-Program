@@ -1,0 +1,5 @@
+The interface called Deque is present in java.util package. It is the subtype of the interface queue.
+The Deque supports the addition as well as the removal of elements from both ends of the data structure.
+Therefore, a deque can be used as a stack or a queue. We know that the stack supports the Last In First Out (LIFO) operation,
+ and the operation First In First Out is supported by a queue. As a deque supports both, either of the mentioned operations can be performed on it.
+ Deque is an acronym for "double ended queue".

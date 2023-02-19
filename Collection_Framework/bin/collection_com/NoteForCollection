@@ -1,0 +1,23 @@
+
+
+
+----------------- Collection ----------------------------
+ @ 5 ways to traversing the elements
+ 1.for-each - loop
+ 2.Iterator - interface
+ 3.Enumerator - only use for vector
+ 4.forEach() - method
+ 5.ListIterator - interface
+ 6.forEachRemaining() method
+
+
+
+1 Q. How to Sort ArrayList ?
+ans: The java.util package provides a utilty class Collections which has the static method sort(). Using the Collections.sort()
+    method, we can easily sort the ArrayList.
+
+2 Q.
+
+
+
+
